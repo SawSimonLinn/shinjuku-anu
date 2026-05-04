@@ -50,6 +50,7 @@ export default function GalleryPage() {
                 src={`https://picsum.photos/seed/gallery-${i}/800/800`}
                 alt="Atmosphere"
                 fill
+                unoptimized
                 className="object-cover grayscale hover:grayscale-0 transition-all duration-1000"
                 data-ai-hint="japanese restaurant"
               />
