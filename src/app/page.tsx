@@ -18,6 +18,7 @@ export default function Home() {
             src="/hero-image.png"
             alt="Shinjuku Restaurant"
             fill
+            unoptimized
             className="object-cover opacity-55"
             priority
           />

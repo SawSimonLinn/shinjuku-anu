@@ -62,6 +62,7 @@ export default function Navbar() {
               src="/logo.png"
               alt="Shinjuku Logo"
               fill
+              unoptimized
               className="object-contain transition-transform duration-500 group-hover:scale-105"
               priority
             />
