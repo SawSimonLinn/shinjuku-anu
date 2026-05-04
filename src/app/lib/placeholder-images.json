@@ -1,0 +1,59 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "hero-restaurant",
+      "description": "Dark atmospheric Japanese dining setting with sake carafes and empty plates on a dark wooden table with candlelight",
+      "imageUrl": "https://picsum.photos/seed/shinjuku-zen-mood/1920/1080",
+      "imageHint": "dark moody japanese dining"
+    },
+    {
+      "id": "shoyu-ramen",
+      "description": "Authentic Shoyu Ramen with chashu and soft boiled egg",
+      "imageUrl": "https://picsum.photos/seed/ramen-1/800/600",
+      "imageHint": "shoyu ramen"
+    },
+    {
+      "id": "tonkotsu-ramen",
+      "description": "Creamy Tonkotsu Ramen with wood ear mushrooms",
+      "imageUrl": "https://picsum.photos/seed/ramen-2/800/600",
+      "imageHint": "tonkotsu ramen"
+    },
+    {
+      "id": "premium-sushi",
+      "description": "Assorted nigiri sushi platter",
+      "imageUrl": "https://picsum.photos/seed/sushi-1/800/600",
+      "imageHint": "nigiri sushi"
+    },
+    {
+      "id": "sashimi-set",
+      "description": "Fresh sashimi selection on a stone platter",
+      "imageUrl": "https://picsum.photos/seed/sushi-2/800/600",
+      "imageHint": "sashimi set"
+    },
+    {
+      "id": "tempura-udon",
+      "description": "Udon noodles with crispy shrimp tempura",
+      "imageUrl": "https://picsum.photos/seed/udon-1/800/600",
+      "imageHint": "tempura udon"
+    },
+    {
+      "id": "beef-udon",
+      "description": "Warm udon with sliced beef and green onions",
+      "imageUrl": "https://picsum.photos/seed/udon-2/800/600",
+      "imageHint": "beef udon"
+    },
+    {
+      "id": "chef-action",
+      "description": "Japanese chef carefully preparing sushi",
+      "imageUrl": "https://picsum.photos/seed/chef/1200/800",
+      "imageHint": "sushi chef"
+    },
+    {
+      "id": "about-interior",
+      "description": "Minimalist Japanese architectural detail",
+      "imageUrl": "https://picsum.photos/seed/interior/1200/800",
+      "imageHint": "japanese interior"
+    }
+  ]
+}

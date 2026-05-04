@@ -1,0 +1,42 @@
+
+{
+  "info": {
+    "name": "Shinjuku Restaurant",
+    "tagline": "Authentic Flavors of Tokyo",
+    "established": 1986,
+    "address": "123 Zen Avenue, New York, NY 10003",
+    "phone": "+1 (212) 555-0198",
+    "hours": {
+      "Monday - Friday": "11:30 AM - 10:00 PM",
+      "Saturday - Sunday": "12:00 PM - 11:00 PM"
+    }
+  },
+  "menu": [
+    {
+      "category": "Ramen",
+      "items": [
+        { "id": "r1", "name": "Classic Shoyu Ramen", "price": "$16.00", "description": "Clear soy-based broth, handcrafted noodles, chashu pork, and ajitama egg.", "imageKey": "shoyu-ramen" },
+        { "id": "r2", "name": "Tonkotsu Special", "price": "$18.50", "description": "Rich pork bone broth simmered for 12 hours, topped with kikurage mushrooms.", "imageKey": "tonkotsu-ramen" }
+      ]
+    },
+    {
+      "category": "Sushi",
+      "items": [
+        { "id": "s1", "name": "Nigiri Selection", "price": "$38.00", "description": "Eight pieces of premium seasonal fish curated by our sushi master.", "imageKey": "premium-sushi" },
+        { "id": "s2", "name": "Chef's Sashimi Platter", "price": "$48.00", "description": "The freshest cuts of tuna, yellowtail, and salmon.", "imageKey": "sashimi-set" }
+      ]
+    },
+    {
+      "category": "Udon",
+      "items": [
+        { "id": "u1", "name": "Tempura Udon", "price": "$19.00", "description": "Thick wheat noodles in dashi broth with jumbo shrimp tempura.", "imageKey": "tempura-udon" },
+        { "id": "u2", "name": "Gyu Udon", "price": "$22.50", "description": "Tender thinly sliced beef simmered in a sweet dashi broth over udon.", "imageKey": "beef-udon" }
+      ]
+    }
+  ],
+  "about": {
+    "story": "Born from a passion for traditional Japanese culinary techniques, Shinjuku Restaurant has brought the Tokyo dining experience to the heart of New York since 1986. We believe in the beauty of simplicity and the integrity of ingredients.",
+    "chef": "Master Chef Kenji Sato brings four decades of experience from the legendary kitchens of Ginza. His philosophy is rooted in 'Washoku'—the harmonious fusion of ingredients.",
+    "heritage": "Our space is inspired by the Wabi-Sabi aesthetic, celebrating the beauty in imperfection and the passage of time. Every bowl and plate is chosen to tell a story."
+  }
+}
