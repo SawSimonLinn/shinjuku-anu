@@ -19,15 +19,18 @@ export default function FoodCard({
   return (
     <div className="group cursor-default">
       <div className="relative aspect-[4/3] overflow-hidden bg-muted mb-4">
-        {imageData && (
+        {imageData ? (
           <Image
             src={imageData.imageUrl}
             alt={name}
             fill
             unoptimized
             className="object-cover transition-transform duration-700 group-hover:scale-105"
-            data-ai-hint={imageData.imageHint}
           />
+        ) : (
+          <div className="w-full h-full bg-muted flex items-center justify-center text-xs text-muted-foreground">
+            Image not found
+          </div>
         )}
         <div className="absolute inset-0 bg-primary/5 group-hover:bg-transparent transition-colors duration-300" />
       </div>

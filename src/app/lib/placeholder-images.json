@@ -1,59 +1,95 @@
-
 {
   "placeholderImages": [
     {
       "id": "hero-restaurant",
-      "description": "Dark atmospheric Japanese dining setting with sake carafes and empty plates on a dark wooden table with candlelight",
-      "imageUrl": "https://picsum.photos/seed/shinjuku-zen-mood/1920/1080",
-      "imageHint": "dark moody japanese dining"
+      "description": "Dark premium Japanese dining",
+      "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?q=80&w=1920&auto=format&fit=crop",
+      "imageHint": "japanese restaurant"
     },
     {
-      "id": "shoyu-ramen",
-      "description": "Authentic Shoyu Ramen with chashu and soft boiled egg",
-      "imageUrl": "https://picsum.photos/seed/ramen-1/800/600",
+      "id": "ramen-1",
+      "imageUrl": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?q=80&w=800&auto=format&fit=crop",
       "imageHint": "shoyu ramen"
     },
     {
-      "id": "tonkotsu-ramen",
-      "description": "Creamy Tonkotsu Ramen with wood ear mushrooms",
-      "imageUrl": "https://picsum.photos/seed/ramen-2/800/600",
+      "id": "ramen-2",
+      "imageUrl": "https://images.unsplash.com/photo-1617196034796-73dfa7b1fd56?q=80&w=800&auto=format&fit=crop",
       "imageHint": "tonkotsu ramen"
     },
     {
-      "id": "premium-sushi",
-      "description": "Assorted nigiri sushi platter",
-      "imageUrl": "https://picsum.photos/seed/sushi-1/800/600",
-      "imageHint": "nigiri sushi"
+      "id": "ramen-3",
+      "imageUrl": "https://images.unsplash.com/photo-1585032226651-759b368d7246?q=80&w=800&auto=format&fit=crop",
+      "imageHint": "miso ramen"
     },
     {
-      "id": "sashimi-set",
-      "description": "Fresh sashimi selection on a stone platter",
-      "imageUrl": "https://picsum.photos/seed/sushi-2/800/600",
-      "imageHint": "sashimi set"
+      "id": "ramen-4",
+      "imageUrl": "https://images.unsplash.com/photo-1623341214825-9f4f963727da?q=80&w=800&auto=format&fit=crop",
+      "imageHint": "black garlic ramen"
     },
     {
-      "id": "tempura-udon",
-      "description": "Udon noodles with crispy shrimp tempura",
-      "imageUrl": "https://picsum.photos/seed/udon-1/800/600",
+      "id": "ramen-5",
+      "imageUrl": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?q=80&w=800&auto=format&fit=crop",
+      "imageHint": "ramen bowl"
+    },
+    {
+      "id": "ramen-6",
+      "imageUrl": "https://images.unsplash.com/photo-1591814468924-caf88d1232e1?q=80&w=800&auto=format&fit=crop",
+      "imageHint": "vegetarian ramen"
+    },
+    {
+      "id": "sushi-1",
+      "imageUrl": "https://images.unsplash.com/photo-1579584425555-c3ce17fd4351?q=80&w=800&auto=format&fit=crop",
+      "imageHint": "nigiri"
+    },
+    {
+      "id": "sushi-2",
+      "imageUrl": "https://images.unsplash.com/photo-1611143669185-af224c5e3252?q=80&w=800&auto=format&fit=crop",
+      "imageHint": "sashimi"
+    },
+    {
+      "id": "sushi-3",
+      "imageUrl": "https://images.unsplash.com/photo-1579871494447-9811cf80d66c?q=80&w=800&auto=format&fit=crop",
+      "imageHint": "sushi rolls"
+    },
+    {
+      "id": "sushi-4",
+      "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=800&auto=format&fit=crop",
+      "imageHint": "omakase"
+    },
+    {
+      "id": "sushi-5",
+      "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?q=80&w=800&auto=format&fit=crop",
+      "imageHint": "premium sushi"
+    },
+    {
+      "id": "udon-1",
+      "imageUrl": "https://images.unsplash.com/photo-1612929633738-8fe44f7ec841?q=80&w=800&auto=format&fit=crop",
       "imageHint": "tempura udon"
     },
     {
-      "id": "beef-udon",
-      "description": "Warm udon with sliced beef and green onions",
-      "imageUrl": "https://picsum.photos/seed/udon-2/800/600",
+      "id": "udon-2",
+      "imageUrl": "https://images.unsplash.com/photo-1625943553852-781c6dd46faa?q=80&w=800&auto=format&fit=crop",
       "imageHint": "beef udon"
     },
     {
+      "id": "udon-3",
+      "imageUrl": "https://images.unsplash.com/photo-1617093727343-374698b1b08d?q=80&w=800&auto=format&fit=crop",
+      "imageHint": "kake udon"
+    },
+    {
+      "id": "udon-4",
+      "imageUrl": "https://images.unsplash.com/photo-1557872943-16a5ac26437e?q=80&w=800&auto=format&fit=crop",
+      "imageHint": "udon noodles"
+    },
+    {
       "id": "chef-action",
-      "description": "Japanese chef carefully preparing sushi",
-      "imageUrl": "https://picsum.photos/seed/chef/1200/800",
-      "imageHint": "sushi chef"
+      "imageUrl": "https://images.unsplash.com/photo-1563612116625-3012372fccce?q=80&w=1200&auto=format&fit=crop",
+      "imageHint": "chef"
     },
     {
       "id": "about-interior",
-      "description": "Minimalist Japanese architectural detail",
-      "imageUrl": "https://picsum.photos/seed/interior/1200/800",
-      "imageHint": "japanese interior"
+      "imageUrl": "https://images.unsplash.com/photo-1552566626-52f8b828add9?q=80&w=1200&auto=format&fit=crop",
+      "imageHint": "restaurant interior"
     }
   ]
 }

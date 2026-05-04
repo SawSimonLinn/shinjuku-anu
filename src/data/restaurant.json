@@ -1,4 +1,3 @@
-
 {
   "info": {
     "name": "Shinjuku Restaurant",
@@ -15,22 +14,123 @@
     {
       "category": "Ramen",
       "items": [
-        { "id": "r1", "name": "Classic Shoyu Ramen", "price": "$16.00", "description": "Clear soy-based broth, handcrafted noodles, chashu pork, and ajitama egg.", "imageKey": "shoyu-ramen" },
-        { "id": "r2", "name": "Tonkotsu Special", "price": "$18.50", "description": "Rich pork bone broth simmered for 12 hours, topped with kikurage mushrooms.", "imageKey": "tonkotsu-ramen" }
+        {
+          "id": "r1",
+          "name": "Classic Shoyu Ramen",
+          "price": "$16.00",
+          "description": "Clear soy-based broth, handcrafted noodles, chashu pork, and ajitama egg.",
+          "imageKey": "ramen-1"
+        },
+        {
+          "id": "r2",
+          "name": "Tonkotsu Special",
+          "price": "$18.50",
+          "description": "Rich pork bone broth simmered for 12 hours, topped with kikurage mushrooms.",
+          "imageKey": "ramen-2"
+        },
+        {
+          "id": "r3",
+          "name": "Spicy Miso Ramen",
+          "price": "$17.50",
+          "description": "Savory miso broth with chili oil, ground pork, and scallions.",
+          "imageKey": "ramen-3"
+        },
+        {
+          "id": "r4",
+          "name": "Black Garlic Ramen",
+          "price": "$18.00",
+          "description": "Tonkotsu base infused with roasted black garlic oil.",
+          "imageKey": "ramen-4"
+        },
+        {
+          "id": "r5",
+          "name": "Chicken Paitan Ramen",
+          "price": "$17.00",
+          "description": "Creamy chicken broth with tender chicken slices.",
+          "imageKey": "ramen-5"
+        },
+        {
+          "id": "r6",
+          "name": "Vegetarian Ramen",
+          "price": "$15.00",
+          "description": "Light vegetable broth with tofu, mushrooms, and greens.",
+          "imageKey": "ramen-6"
+        }
       ]
     },
+
     {
       "category": "Sushi",
       "items": [
-        { "id": "s1", "name": "Nigiri Selection", "price": "$38.00", "description": "Eight pieces of premium seasonal fish curated by our sushi master.", "imageKey": "premium-sushi" },
-        { "id": "s2", "name": "Chef's Sashimi Platter", "price": "$48.00", "description": "The freshest cuts of tuna, yellowtail, and salmon.", "imageKey": "sashimi-set" }
+        {
+          "id": "s1",
+          "name": "Nigiri Selection",
+          "price": "$38.00",
+          "description": "Eight pieces of premium seasonal fish curated by our sushi master.",
+          "imageKey": "sushi-1"
+        },
+        {
+          "id": "s2",
+          "name": "Chef's Sashimi Platter",
+          "price": "$48.00",
+          "description": "Fresh cuts of tuna, yellowtail, and salmon.",
+          "imageKey": "sushi-2"
+        },
+        {
+          "id": "s3",
+          "name": "Signature Rolls",
+          "price": "$22.00",
+          "description": "Chef-crafted specialty rolls with modern presentation.",
+          "imageKey": "sushi-3"
+        },
+        {
+          "id": "s4",
+          "name": "Omakase Experience",
+          "price": "$85.00",
+          "description": "Seasonal chef tasting with curated sushi courses.",
+          "imageKey": "sushi-4"
+        },
+        {
+          "id": "s5",
+          "name": "Toro Nigiri",
+          "price": "$28.00",
+          "description": "Premium fatty tuna with delicate texture.",
+          "imageKey": "sushi-5"
+        }
       ]
     },
+
     {
       "category": "Udon",
       "items": [
-        { "id": "u1", "name": "Tempura Udon", "price": "$19.00", "description": "Thick wheat noodles in dashi broth with jumbo shrimp tempura.", "imageKey": "tempura-udon" },
-        { "id": "u2", "name": "Gyu Udon", "price": "$22.50", "description": "Tender thinly sliced beef simmered in a sweet dashi broth over udon.", "imageKey": "beef-udon" }
+        {
+          "id": "u1",
+          "name": "Tempura Udon",
+          "price": "$19.00",
+          "description": "Thick wheat noodles in dashi broth with shrimp tempura.",
+          "imageKey": "udon-1"
+        },
+        {
+          "id": "u2",
+          "name": "Gyu Udon",
+          "price": "$22.50",
+          "description": "Thinly sliced beef simmered in sweet dashi broth.",
+          "imageKey": "udon-2"
+        },
+        {
+          "id": "u3",
+          "name": "Kake Udon",
+          "price": "$15.00",
+          "description": "Simple udon in light dashi broth.",
+          "imageKey": "udon-3"
+        },
+        {
+          "id": "u4",
+          "name": "Curry Udon",
+          "price": "$18.00",
+          "description": "Japanese curry broth with tender beef and noodles.",
+          "imageKey": "udon-4"
+        }
       ]
     }
   ],
